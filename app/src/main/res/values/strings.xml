@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Myanmar Movie Recap</string>
+    <string name="nav_home">ပင်မ</string>
+    <string name="nav_search">ရှာဖွေရန်</string>
+    <string name="nav_create">ဖန်တီးရန်</string>
+    <string name="nav_library">စာကြည့်တိုက်</string>
+    <string name="nav_profile">ပရိုဖိုင်</string>
+</resources>
